@@ -32,7 +32,7 @@ address {
 img {
     display: inline-block;
     width: 49%;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 ul {
